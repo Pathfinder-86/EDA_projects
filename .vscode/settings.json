@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "future": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "thread": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "ratio": "cpp",
+        "scoped_allocator": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp"
+    }
+}
